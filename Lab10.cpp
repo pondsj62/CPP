@@ -11,6 +11,6 @@ main(){
 void Money(int hour){
 	float total;
 	total = hour*M;
-	printf("Total %f\n",total);
+	printf("Total %.2f\n",total);
 }
 
